@@ -1,4 +1,5 @@
-# song-requester
+# Song Requester
+NuxtJS applicative layer for the Song Requester project
 
 ## Build Setup
 
