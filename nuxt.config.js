@@ -1,8 +1,11 @@
 import colors from 'vuetify/es5/util/colors';
 
 export default {
-  // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
-  ssr: false,
+  // Activate server-side rendering: https://go.nuxtjs.dev/ssr-mode
+  ssr: true,
+
+  // https://nuxtjs.org/docs/2.x/get-started/commands#server-deployment
+  target: 'server',
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
